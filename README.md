@@ -49,12 +49,24 @@
 
 ## Frontend
 
-Pages
+### Pages
 
-- Login
-- Signup
-- Collection
-- Catch Pokemon
+<details>
+  <summary>Home</summary>
+  <img src="https://user-images.githubusercontent.com/59118459/160277599-84a25c23-9da3-49db-a7fe-77848989431b.png" height=300 alt="home"/>
+</details>
+<details>
+  <summary>Collection</summary>
+  <img src="https://user-images.githubusercontent.com/59118459/160277653-39367d30-5101-4b9c-95c5-0afc81fc99c3.png" height=200 alt="collection"/>
+</details>
+<details>
+  <summary>Catch</summary>
+  <img src="https://user-images.githubusercontent.com/59118459/160277671-027c4577-2594-4add-bc69-84752d4af382.png" height=200 alt="catch" />
+</details>
+<details>
+  <summary>Login</summary>
+  <img src="https://user-images.githubusercontent.com/59118459/160277694-83efe52f-a400-412c-bb85-306a4214d8b0.png" height=200 alt="login" />
+</details>
 
 <br/>
 
