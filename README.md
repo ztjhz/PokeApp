@@ -2,6 +2,13 @@
 
 ## 👉 [Website](http://ec2-54-179-68-12.ap-southeast-1.compute.amazonaws.com/)
 
+|Category|Tech Stack|
+|----|----|
+|Frontend|React, Redux|
+|Backend|Django, DjangoRestFramework,<br/>Djoser + JWTAuthentication|
+|Database|Postgresql,  SQLite|
+|Deployment|AWS EC2 (T2.micro) + AWS RDS (postgresql)|
+
 <br/>
 
 ## Table of Contents
