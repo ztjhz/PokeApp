@@ -76,6 +76,12 @@ py manage.py run server 0.0.0.0:80
   - `py manage.py migrate`
 - Start the Django server
   - `py manage.py runserver`
+  - Go to `localhost:8000` to view the PokeApp
+- Run frontend react app
+  - `npm install`
+  - `npm run start`
+- Build frontend react app
+  - `npm run build`
 - Update frontend static files
   - Run `npm run build` in `frontend` directory
   - Copy the `build` folder to the `backend` directory
