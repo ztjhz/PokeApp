@@ -1,6 +1,8 @@
 # PokeApp
 
-<!-- ## 👉 [Website](http://ec2-54-179-68-12.ap-southeast-1.compute.amazonaws.com/) -->
+## 👉 [Website](http://ec2-54-179-68-12.ap-southeast-1.compute.amazonaws.com/)
+[![Website http://ec2-54-179-68-12.ap-southeast-1.compute.amazonaws.com/](https://img.shields.io/website-up-down-green-red/http/ec2-54-179-68-12.ap-southeast-1.compute.amazonaws.svg)](http://ec2-54-179-68-12.ap-southeast-1.compute.amazonaws.com/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)](https://bitbucket.org/lbesson/ansi-colors)
 
 |Category|Tech Stack|
 |----|----|
