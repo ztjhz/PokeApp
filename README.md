@@ -1,6 +1,6 @@
 # PokeApp
 
-## 👉 [Website](http://ec2-54-179-68-12.ap-southeast-1.compute.amazonaws.com/)
+<!-- ## 👉 [Website](http://ec2-54-179-68-12.ap-southeast-1.compute.amazonaws.com/) -->
 
 |Category|Tech Stack|
 |----|----|
